@@ -79,68 +79,6 @@ const select1 = document.querySelector("#select1")
 const select2 = document.querySelector("#select2")
 const select3 = document.querySelector("#select3")
 
-let option11 = document.querySelector("#option1-1")
-let option12 = document.querySelector("#option1-2")
-let option13 = document.querySelector("#option1-3")
-let option14 = document.querySelector("#option1-4")
-let option15 = document.querySelector("#option1-5")
-let option16 = document.querySelector("#option1-6")
-let option17 = document.querySelector("#option1-7")
-let option18 = document.querySelector("#option1-8")
-let option19 = document.querySelector("#option1-9")
-
-let option21 = document.querySelector("#option2-1")
-let option22 = document.querySelector("#option2-2")
-let option23 = document.querySelector("#option2-3")
-let option24 = document.querySelector("#option2-4")
-let option25 = document.querySelector("#option2-5")
-let option26 = document.querySelector("#option2-6")
-let option27 = document.querySelector("#option2-7")
-let option28 = document.querySelector("#option2-8")
-let option29 = document.querySelector("#option2-9")
-
-let option31 = document.querySelector("#option3-1")
-let option32 = document.querySelector("#option3-2")
-let option33 = document.querySelector("#option3-3")
-let option34 = document.querySelector("#option3-4")
-let option35 = document.querySelector("#option3-5")
-let option36 = document.querySelector("#option3-6")
-let option37 = document.querySelector("#option3-7")
-let option38 = document.querySelector("#option3-8")
-let option39 = document.querySelector("#option3-9")
-
-option11.value = 1
-option12.value = 2
-option13.value = 3
-option14.value = 4
-option15.value = 5
-option16.value = 6
-option17.value = 7
-option18.value = 8
-option19.value = 9
-
-option21.value = 1
-option22.value = 2
-option23.value = 3
-option24.value = 4
-option25.value = 5
-option26.value = 6
-option27.value = 7
-option28.value = 8
-option29.value = 9
-
-option31.value = 1
-option32.value = 2
-option33.value = 3
-option34.value = 4
-option35.value = 5
-option36.value = 6
-option37.value = 7
-option38.value = 8
-option39.value = 9
-
-
-
 bntIngresar.addEventListener("click", () => {
 
     if (select1.selectedIndex === 8 && select2.selectedIndex === 0 && select3.selectedIndex === 0) {
