@@ -1,2 +1,4 @@
 # intro-js
-## https://sirifazendobarra.github.io/desafio2-js-condiciones/
+## desafio 2 - JavaScript para la Web - desafio LATAM
+### https://js-conditions.netlify.app/
+Some exercises using conditions and events 
